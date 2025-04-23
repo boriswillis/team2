@@ -14,10 +14,6 @@
 		{
 			"Name": "DaySequence",
 			"Enabled": true
-		},
-		{
-			"Name": "PCG",
-			"Enabled": true
 		}
 	]
 }
