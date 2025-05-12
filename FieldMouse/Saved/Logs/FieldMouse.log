@@ -1553,3 +1553,43 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.12-22.12.20:047][752]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.05.12-22.12.20:047][752]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.12-22.12.20:047][752]AssetCheck: /Game/ThirdPerson/Maps/FieldMouseLevel1_FieldWork Validating asset
+[2025.05.12-22.13.43:913][184]Cmd: DELETE
+[2025.05.12-22.13.43:913][184]Cmd: ACTOR DELETE
+[2025.05.12-22.13.43:938][184]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.12-22.13.43:954][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.05.12-22.13.43:958][184]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2025.05.12-22.13.45:880][290]Cmd: TRANSACTION UNDO
+[2025.05.12-22.13.45:880][290]LogEditorTransaction: Undo Delete Elements
+[2025.05.12-22.13.50:720][530]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/generator_assets/generator.generator
+[2025.05.12-22.13.50:722][530]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/generator_assets/generator.generator
+[2025.05.12-22.13.50:722][530]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/generator_assets/generator.generator as actor: StaticMeshActor /Game/ThirdPerson/Maps/FieldMouseLevel1_FieldWork.FieldMouseLevel1_FieldWork:PersistentLevel.StaticMeshActor_8
+[2025.05.12-22.13.52:092][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.05.12-22.13.52:096][617]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.05.12-22.13.52:106][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/generator_assets/generator.generator
+[2025.05.12-22.13.52:106][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/generator_assets/generator.generator
+[2025.05.12-22.13.52:107][617]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/generator_assets/generator.generator as actor: StaticMeshActor /Game/ThirdPerson/Maps/FieldMouseLevel1_FieldWork.FieldMouseLevel1_FieldWork:PersistentLevel.StaticMeshActor_9
+[2025.05.12-22.14.12:164][522]Cmd: TRANSACTION UNDO
+[2025.05.12-22.14.12:164][522]LogEditorTransaction: Undo Set Scale
+[2025.05.12-22.14.54:289][268]Cmd: DELETE
+[2025.05.12-22.14.54:289][268]Cmd: ACTOR DELETE
+[2025.05.12-22.14.54:308][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.12-22.14.54:325][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.05.12-22.14.54:330][268]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2025.05.12-22.16.23:810][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1042.766602
+[2025.05.12-22.16.24:811][837]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-22.16.24:811][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1043.433228, Update Interval: 358.972748
+[2025.05.12-22.17.41:800][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-22.17.41:937][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.12-22.17.42:080][226]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/FieldMouseLevel1_FieldWork
+[2025.05.12-22.17.42:080][226]LogSavePackage: Moving '../../../../../../Users/davis/Documents/GitHub/team2/FieldMouse/Saved/FieldMouseLevel1_FieldWork7E3C04D045EE3BBE9E74AC9767F8ED41.tmp' to '../../../../../../Users/davis/Documents/GitHub/team2/FieldMouse/Content/ThirdPerson/Maps/FieldMouseLevel1_FieldWork.umap'
+[2025.05.12-22.17.42:098][226]LogFileHelpers: Saving map 'FieldMouseLevel1_FieldWork' took 0.203
+[2025.05.12-22.17.42:118][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 316.990 ms (total: 1.08 sec)
+[2025.05.12-22.17.42:178][226]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-22.17.42:178][226]LogContentValidation: Enabled validators:
+[2025.05.12-22.17.42:178][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.12-22.17.42:178][226]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-22.17.42:178][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-22.17.42:178][226]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.12-22.17.42:178][226]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-22.17.42:178][226]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.12-22.17.42:178][226]AssetCheck: /Game/ThirdPerson/Maps/FieldMouseLevel1_FieldWork Validating asset
